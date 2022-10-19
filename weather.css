@@ -1,0 +1,12 @@
+body{
+    background-image: url("./img/pexels-johannes-plenio-1118873.jpg");
+    background-size: cover
+    
+}
+
+#d1{
+    height: 500px;
+    width: 500px;
+    background-color: rgba(0, 0, 0, 0.608);
+    margin-top: 150px;
+}
